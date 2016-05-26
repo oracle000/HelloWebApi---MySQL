@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Angular Exercise</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="assets/style/bootstrap.css" />
+    <link rel="stylesheet" href="assets/style/styleless.min.css" />
+    <!--<link rel="stylesheet" href="assets/style/style.less" />-->
+
+    <link rel="stylesheet" href="assets/style/common.css" />
+    <link rel="stylesheet" href="assets/style/pikaday.css" />
+
+    <link rel="stylesheet" href="assets/style/font-awesome.css" />
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+
+</head>
+<body class="" data-ng-app="UserApps" data-ng-strict-di>
+    <header>
+        <div ng-include="'header.html'"></div>
+    </header>
+    <section class="user-input" data-ng-controller="searchController as mainController" ng-if="true">
+        <div add-content></div>
+        <div class="commands">
+            <input type="text" placeholder="Search for a user" data-ng-model="chooseName" />
+            <button type="button" class="btn btn-primary" data-ng-click="mainController.addName(chooseName)">Search</button>
+            <div class="clear"></div>            
+        </div>
+        <div class="mt10 result-user">
+            <p class="fz16">Displaying {{ filtered.length }} User(s)</p>
+        </div>
+        <div class="user-find ">
+            <div class="person" data-ng-repeat="user in mainController.storage | filter: mainController.name as filtered">
+                <a href="#/todo" ng-click="mainController.getInformation(user.UserId)">
+                    <div class="user-legend">
+                        <i class="fa fa-user fa-2x"></i>
+                        <span>
+                            <p class="fz16">{{ user.UserName }}  </p>
+                            <test-directive class="checkVal" id="idCheck" message-attr="{{ user.task.length }}">
+                            </test-directive>
+                        </span>
+                    </div>
+                    <div>
+                        <p class="fz16">View Task</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div trydirective></div>
+        <div class="panel-container">
+            <div ng-view class="modal-container showed page {{ routeController.pageClass }}" ng-keydown="routeController.closeTodo($event)" tabindex="0"></div>
+        </div>        
+    </section>
+    <display-balloon></display-balloon>
+</body>
+
+<!-- additional content for angular module -->
+<script src="assets/script/addons/jquery-1.12.3.min.js"></script>
+<script src="assets/script/addons/angular.min.js"></script>
+<script src="assets/script/addons/angular-route.js"></script>
+<script src="assets/script/addons/angular-animate.min.js"></script>
+<script src="assets/script/addons/angular-mocks.js"></script>
+
+<!-- plugin for angular -->
+<script src="assets/script/addons/ngStorage.js"></script>
+<script src="assets/script/plugins/pikaday.js"></script>
+<script src="assets/script/plugins/pikaday-angular.js"></script>
+
+<!-- apps module -->
+<script src="assets/script/apps.js"></script>
+
+<!-- services for angular -->
+<script src="assets/script/services/objectService.js"></script>
+<script src="assets/script/services/setupService.js"></script>
+<script src="assets/script/services/callService.js"></script>
+<!--<script src="assets/script/services/GetAllUsersService.js"></script>
+<script src="assets/script/services/GetAllTaskByIDService.js"></script>-->
+<script src="assets/script/services/TodoAPI.js"></script>
+
+<!-- controller for angular -->
+<script src="assets/script/controller/searchController.js"></script>
+<script src="assets/script/controller/todoController.js"></script>
+
+<!-- directives for angular -->
+<script src="assets/script/directives/checkLog.js"></script>
+<script src="assets/script/directives/displayBalloon.js"></script>
+<script src="assets/script/directives/addContent.js"></script>
+<script src="assets/script/directives/catchError.js"></script>
+</html>

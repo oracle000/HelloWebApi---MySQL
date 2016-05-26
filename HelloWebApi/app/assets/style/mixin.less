@@ -1,0 +1,54 @@
+﻿// LIST OF MIXINS
+
+
+// icon on hoverstate
+.hover-icon {
+    &:hover {
+        color: #999;
+    }
+}
+.alignTo(@align: center) {
+    text-align: (@align);
+}
+
+.fontsize(@font, @fontfam, @fontalign) {
+    font-size: (@font);   
+    font-family: (@fontfam);
+    text-align: (@fontalign);
+}
+
+.flexdesign(@align, @justify, @flex ) {    
+    align-items: (@align);    
+    display: (@flex);
+    justify-content: (@justify);    
+}
+
+.scale(@factor: 2.5) {
+        -webkit-transform: scale(@factor);
+           -moz-transform: scale(@factor);
+            -ms-transform: scale(@factor);
+             -o-transform: scale(@factor);
+                transform: scale(@factor);            
+}
+
+.border-radius(@radius: 10px) {
+    -webkit-border-radius:  @radius;
+       -moz-border-radius:  @radius;         
+            border-radius:  @radius;
+}
+
+.transition(@dom, @duration) {
+    -webkit-transition: @dom @duration;
+       -moz-transition: @dom @duration;
+         -o-transition: @dom @duration;
+            transition: @dom @duration;      
+}
+
+.animate-content(@animation, @duration, @ease) {
+
+     -webkit-animation: @animation @duration @ease; 
+        -moz-animation: @animation @duration @ease;
+          -o-animation: @animation @duration @ease;
+             animation: @animation @duration @ease;
+
+}

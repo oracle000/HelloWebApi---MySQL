@@ -1,0 +1,70 @@
+﻿<section class="modal-todo" >
+    <div class="modal-head">
+        <p>ToDo List</p>
+        <a href="#/main">
+            <i class="fa fa-times "></i>
+        </a>
+    </div>
+    <div class="modal-body">
+        <div class="person-incharge">
+            <div>
+                <p>{{ routeController.selectedName }}</p>
+            </div>
+            <div>
+                <p>Total Task: </p>
+                <p>{{ routeController.taskCount }}</p>
+            </div>
+        </div>
+        <div class="new-task mt30">
+            <div class="form-group">
+                <label for="task">New Task</label>
+                <div class="clear"></div>
+                <div class="control">
+                    <div catch-error></div>
+
+                    <!-- forms --> 
+                    <form name="myForm"  ng-class="{ 'has-error' : myForm.input.$invalid && !myForm.input.$pristine }" novalidate>
+                        <input type="text" 
+                               name="input" 
+                               class="form-control" 
+                               id="usr" 
+                               placeholder="Type a task then click Add" 
+                               data-ng-model="routeController.addTask" 
+                               data-ng-minlength="3"
+                               data-ng-maxlength="50"
+
+                               required="" >
+                        <!--<button type="button" class="btn btn-primary" data-ng-click="routeController.saveNewTask()" ng-disabled="myForm.$invalid">Add</button>-->                        
+                        <button type="button" class="btn btn-primary" data-ng-disabled=" myForm.$invalid " data-ng-click="routeController.saveNewTask()">Add</button>
+                        <div catcherror ></div>
+                    </form>
+                    <!-- end of forms -->                                         
+                </div>
+                <div class="date-control mt50">
+                    <label>Due Date</label>
+                    <div class="timepicker">
+                        <input pikaday="myObject" data-ng-model="routeController.addDue" placeholder="Select a Due Date">
+                        <i class="fa fa-calendar"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="container-task">
+                <div class="todo-task" data-ng-repeat="user in routeController.newObj">
+                    <div class="display-forms">
+                        <label>
+                            <input type="checkbox" name="checkbox" value="value " ng-click="routeController.updateTask()" data-ng-model="user.done" />{{ user.taskname }}
+                        </label>
+                        <div class="timepicker">
+                            <input type="text" value="{{ user.due }}" readonly>
+                            <i class="fa fa-calendar"></i>
+                        </div>
+                    </div>
+                    <div class="close-task">
+                        <i class="fa fa-times-circle" data-ng-click="routeController.removeTask(user.taskID)"></i>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

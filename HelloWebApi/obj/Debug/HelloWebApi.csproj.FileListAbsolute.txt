@@ -1,0 +1,101 @@
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\HelloWebApi.dll.config
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\HelloWebApi.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\HelloWebApi.pdb
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\Antlr3.Runtime.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\dbaseApplication.exe
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\DBaseModel.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\EntityFramework.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\FM.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\FM.JsonNet.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\Model.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\Newtonsoft.Json.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Web.Helpers.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Web.Http.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Web.Mvc.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Web.Optimization.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Web.Razor.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Web.WebPages.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\WebGrease.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\dbaseApplication.pdb
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\DBaseModel.pdb
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\Model.pdb
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\EntityFramework.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\Newtonsoft.Json.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Web.Helpers.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Web.Http.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Web.Mvc.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Web.Optimization.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Web.Razor.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Web.WebPages.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\obj\Debug\HelloWebApi.csprojResolveAssemblyReference.cache
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\obj\Debug\HelloWebApi.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi\HelloWebApi\obj\Debug\HelloWebApi.pdb
+C:\Users\ceniego\documents\visual studio 2013\Projects\HelloWebApi\HelloWebApi\bin\Moq.dll
+C:\Users\ceniego\documents\visual studio 2013\Projects\HelloWebApi\HelloWebApi\bin\Moq.pdb
+C:\Users\ceniego\documents\visual studio 2013\Projects\HelloWebApi\HelloWebApi\bin\Moq.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\HelloWebApi.dll.config
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\HelloWebApi.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\HelloWebApi.pdb
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\Antlr3.Runtime.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\dbaseApplication.exe
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\DBaseModel.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\EntityFramework.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\FM.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\FM.JsonNet.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\Model.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\Moq.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\Newtonsoft.Json.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Web.Helpers.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Web.Http.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Web.Mvc.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Web.Optimization.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Web.Razor.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Web.WebPages.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\WebGrease.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\dbaseApplication.pdb
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\DBaseModel.pdb
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\Model.pdb
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\EntityFramework.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\Moq.pdb
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\Moq.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\Newtonsoft.Json.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Web.Helpers.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Web.Http.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Web.Mvc.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Web.Optimization.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Web.Razor.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Web.WebPages.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\obj\Debug\HelloWebApi.csprojResolveAssemblyReference.cache
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\obj\Debug\HelloWebApi.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\obj\Debug\HelloWebApi.pdb
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\MySql.Data.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\Microsoft.Owin.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\Owin.dll
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\Microsoft.Owin.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ceniego\Documents\Visual Studio 2013\Projects\HelloWebApi - MySQL\HelloWebApi\bin\MySql.Data.Entity.EF6.dll
